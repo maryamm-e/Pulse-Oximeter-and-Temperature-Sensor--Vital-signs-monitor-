@@ -1,0 +1,10 @@
+# Bill of Materials (Component List)
+
+| Component | Model / Specification | Interface / Pins | Qty |
+| :--- | :--- | :--- | :---: |
+| Microcontroller | Arduino Nano (ATmega328P) | USB / 5V Regulated | 1 |
+| Pulse Oximeter & Heart Rate Sensor | MAX30102 | I2C (`A4` SDA, `A5` SCL) | 1 |
+| Digital Temperature Sensor | DS18B20 (with 4.7 kΩ pull-up resistor) | 1-Wire (`D2`) | 1 |
+| OLED Display | 0.96" SSD1306 (128×64) | I2C (`A4` SDA, `A5` SCL) | 1 |
+| Power Supply | 5V DC Regulated Supply / Battery Pack + Switch | `5V` & `GND` | 1 |
+| Enclosure & Wiring | Custom 3D-Printed Case & Jumper Wires | — | 1 |
