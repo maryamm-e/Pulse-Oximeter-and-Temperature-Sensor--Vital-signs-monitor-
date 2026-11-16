@@ -45,4 +45,4 @@ Install the following libraries in the Arduino IDE (**Sketch → Include Library
 
 ## Authors
 * **Maryam Elassar** — Dept. of Electronics and Communication Engineering, AASTMT
-* **Mahinour Aly** — Dept. of Electronics and Communication Engineering, AASTMT[cite: 8]
+* **Mahinour Aly** — Dept. of Electronics and Communication Engineering, AASTMT
